@@ -1,0 +1,16 @@
+<strings>
+    <!-- increment version if old settings/settings files will break-->
+    <string id="version" content="1" />
+    <string id="preferences_filename" content="game_preferences" />
+
+    <string id="title" content="Collect All The Bits!" />
+
+    <string id="dev" content="Polydus" />
+    <string id="dev_twitter" content="@Polydus" />
+
+    <string id="version_string" content="Alpha v1.0.0 dev" />
+
+    <string id="mainmenu_option1" content="New Game" />
+    <string id="mainmenu_option2" content="Resume Game" />
+
+</strings>
